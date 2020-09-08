@@ -14,5 +14,5 @@
 
 * I am a beginner with some experience in [JavaFX](https://openjfx.io) and standard C++20 
 * I have meddled with just about every mainstream web technology.
-* I do freelance webdevelopment
+* I do freelance web development
 * I am on Eastern Time (UTC-4 or UTC-5)
