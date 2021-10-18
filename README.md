@@ -1,18 +1,25 @@
-## What I do and how I do it
+<p><em>A bachelor student at the <a href="https://www.uky.edu">University of Kentucky</a>, majoring in Computer Science (suprise suprise, a CS student with a GitHub)</br>
+</em></p>
 
-![https://bell-sw.com/](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=yellow)
 
-![https://www.java.com/](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=sienna)
-![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=sienna)
-![https://bell-sw.com/](https://img.shields.io/badge/JDK-Liberica-informational?style=flat&color=sienna)
+```javascript
+{
+   code: ["Java", "Python", "C++", "Javascript", "Swift", "HTML+CSS", "PHP"],
+   technologies: {
+      web: ["Wordpress", "React", "Flask"],
+      mobile: ["React native", "iOS SDK"],
+      desktop: ["JavaFX","wxWidgets"],
+      databases: ["Firebase", "mySQL"]
+   },
+   os: ["Windows 10", "Linux", "iOS"],
+   currentOccupation: ["Freshman student, but I'm always looking for internships/co-ops and any other opportunities"]
+}
+```
+</br></br>
+<h2>💻 Some stats 💻</h2>
 
-![https://isocpp.org/](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c++&logoColor=white&color=blue)
-![https://code.visualstudio.com/](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![https://gcc.gnu.org/](https://img.shields.io/badge/Compiler-GCC-informational?style=flat&logo=gnu&logoColor=white&color=blue)
+![tajetaje's github stats](https://github-readme-stats.vercel.app/api?username=tajetaje&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Who I am
+---
 
-* I am a beginner with some experience in [JavaFX](https://openjfx.io) and standard C++20 
-* I have meddled with just about every mainstream web technology.
-* I do freelance web development
-* I am on Eastern Time (UTC-4 or UTC-5)
+⭐️ Thanks to [reeveng](https://github.com/reeveng) for this template inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
