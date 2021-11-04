@@ -22,4 +22,4 @@
 
 ---
 
-⭐️ Thanks to [reeveng](https://github.com/reeveng) for this template inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ Thanks to [reeveng](https://github.com/reeveng) for this template
