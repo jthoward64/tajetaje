@@ -6,13 +6,13 @@
 {
    code: ["Java", "Python", "C++", "Javascript", "Swift", "HTML+CSS", "PHP"],
    technologies: {
-      web: ["Wordpress", "React", "Flask"],
+      web: ["Wordpress", "React", "Bootstrap 5"],
       mobile: ["React native", "iOS SDK"],
       desktop: ["JavaFX","wxWidgets"],
       databases: ["Firebase", "mySQL"]
    },
    os: ["Windows 10", "Linux", "iOS"],
-   currentOccupation: ["Freshman student, but I'm always looking for internships/co-ops and any other opportunities"]
+   currentOccupation: "Freshman student, but I'm always looking for internships/co-ops and any other opportunities"
 }
 ```
 </br></br>
